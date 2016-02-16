@@ -1,0 +1,32 @@
+vll
+num methodus praecipue eo consistit , quod tempus , unitas per radium vecto-
+rem ad eclipticam proiectum divisa et tangens latitudinis · versus eclipticam tan-
+quam functiones longitudinis verae ad eclipticam proiectae exhibentur. Hinc
+vero factum est, ut coordinatae Solis , quae quidem , quatenus in motu Lunae·
+vim habent, expressiones quam simplicissimae sunt , per longitudinem illam
+Lunae exprimendae sint, unde formam admodum implicitam accipiunt3 prae-
+terea , computatione perturbationum peracta, series, quae tempus per longi-
+tudinem illam expressum suppeditat, revertenda , ‘et in seriebus perturbationes
+reliquarum coordinatarum exhibentibus loco 'illius longitudinis expressio eius
+per tempus substituenda est. Quae conditiones perturbationum Lunae compu-
+tationes secundum hanc methodum satis longas reddunt. lll. Damoiseau evo-
+lutiones analyticas ad ultimum finem non produxit, sed methodo coefficientium
+indeterminatomm eadem , qua ill. Clairaut et Laplace usi erant, adhibita,
+aequationes mixtas post valores numericos quantitatum, quas continent, substi-
+tutos resolvit. Quantum laboris haec problematis huius solvendi methodus
+poposcerit ex commentatione ill. Damoiseau praemio ornata et in libri: Me-
+moires presentes par divers savans etc. intitulati volumine 1· typis excusa videS,
+et auctor sane laboris compendium sibi non conciliavisset, si evolutiones analy-
+ticas ad ultimum finem perduxisset. Ill. Plana in opere suo de theoria Lunae
+nuperrime ,edito eandem fere methodum adhibuit, evolutiones vero analyticas
+usque ad metam produxit3 sed non dubium est, quin hoc computandi modo
+adhuc plus laboris sibi conciliaverit. Praeter haec de theoria Lunae confecta
+opera, ill. Poisson nec non ill. Lubock formulas notas, quibus perturbationes
+immediate in functione temporis exprimuntur, ad perturbationes Lunaecompu—
+tandas , et quidem ille formulas variabilia elementa elliptica suppeditantes , hic
+vero formulas coordinatas polares subministrantes proposuerunt, et uterque
+
+evolutionum analyticamm tantum, quantum fieri possit, extendeudarum consi·
+
+lium cepisse videtur.
+

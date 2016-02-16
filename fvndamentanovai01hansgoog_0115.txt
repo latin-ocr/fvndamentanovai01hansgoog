@@ -1,0 +1,49 @@
+in (ἐξ) terminum constantem proferre, in ipsis Ξ) et (ᾖ) vero ter·-
+minum constantem existere non posse. Expressio igitur ipsius dI in se-
+riem evolvitur huius formae A sin (qt-kd) dt, expressio 'ipsius ἀφ in se·
+riem huius formae 'hdr -}— Β cos (qt -4-6) dt et expressio ipsius ἀφ in se·-
+riem huius formae hdt -†- D cos (ηἰ-Ι- ὅ) dt, ubi A, B, D, η, 6, k et lt
+constantes sunt, quibus conditio inest, ut pro η z: ο fiat A ..-- B=D=o.
+Approximatio igitur prima suppeditat
+' 'I = EA, cos (qt-l—d)
+φ = 1:14- ΣΒ, sin(v21†-6)
+ψ z 1114-th sin (ηἰ-ξ-δ)
+Substitutis his valoribus in approximatione secunda ope theorematis
+Tayloriani in aequationibus (45), non modo φ et ψ sed etiam I terminos
+
+¹ per tempus ipsum multiplicatos continebunt, et eadem ratione intelligitur,
+
+in expressionibus ipsarum ζ atque β in approximatione secunda valores
+
+‘ praecedentes ipsarum φ atque ψ terminos per tempus ipsum multiplicatos
+
+introducturos esse. Qui termini omnes amoventur adiungendo statim in ap-
+proximatione prima kt ad φ et ht ad ψ. Sed aliud incommodum grave
+nascetur factoribus cotg I atque cosec Ι, qui iu expressionibus ipsarum ἀφ
+
+ 
+
+atque ἀφ continentur , et⁴ in approximatione secunda factores - sig 1
+. 61 cos Ι . ·
+atque — σὴρ 1 praebebunt, e quibus propter parvulam orbitae Lunae ad
+
+ 
+
+orbitam Solis inclinationem termini permagni prodituri sunt, qui in ap-
+proximationibus subsequentibus instituendis series divergentes efficient.
+Quae quum ita sint, necesse est transformationes introducantur, de quibus
+in articulis sequentibus sermo. erit.
+
+25.
+Sint
+a÷n'—(‹p-{-zb)—2 (n) at = 2N , sr—-d—(aep -oeh)÷2(n)vqt= 2K
+ubi quantitates α et η adhuc indeterminatae sunt. Substitutis his valoribus
+in expressione ipsius Δ in art. praec. data, nanciscimur
+
+κ , Α2 :520210 4-r'2c21ff— 25· nuens cos² ὲ Icos [J—f-i- (n) (st—zl— 2η) t 4211]
+
+—2FP‘cw4-1d sin* {c reos [Ἠ-Ῠ-ι-(η) cvj-³142aJt-1—2N]
+, 12
+
+...... (46)
+

@@ -1,0 +1,48 @@
+73
+illis dependentium et functiones variabilium cognitarum ε’ , ω’ , p' et ς’
+factae sunt ³⁰¹) , et praeterea solummodo* constantes (a) , (n) , (e), (h) , σε,
+
+(α’) , (n'), (ε’) et π’, quarum valores numericos datos esse supponitur, con-
+tinent.
+
+18.
+
+Quum in aequationibus differentialibus modo descriptis variabiles tali
+, modo illigatae sint, ut aequationes hae directe integrari nequeant , ad plu-
+res deinceps approximationes nobis refugiendum est. Quamobrem ab ini-
+tio valores variabilium indagandamm dari debent , qui a veris earum valo-
+ribus non nisi quantitate primi ordinis respectu· ¹vis perturbantis aberrant3
+quibus substitutis , integratione aequationum differentialium valores variabi-
+lium obtinentur , qui a veris non nisi quantitate secundi ordinis differunt,
+et hoc calculo approximatio prima peracta erit. Valores variabilium, quos
+approximatio prima suppeditabat, quum non nisi quantitatibus secundi or-
+dinis a veris earum valoribus distent , ad approximationem secundam ab-
+solvendam in aequationibus nostris differentialibus substituendi sunt , unde
+post integrationes peractas valores variabilium exibunt , quorum error tertii
+ordinis est3 et eodem modo approximationes subsequentes absolvuntur.
+
+Ad primam igitur approximationem absolvendam valores variabilium a
+veris earum valoribus„ quantitate primi ordinis respectu vis perturbantis di·-
+stantes, ut dixi , cogniti esse debent3 haec sola conditio est, et quantita-
+tes quaslibet, dummodo huic soli conditioni satisfaciant, substituere nobis
+licet. ’
+
+Iam aequatio (26) suppeditat valorem integrum ipsius (n) ζ, qui locum
+habet, quoties vis perturbans evanescit, qui valor functio ipsarum b, ξ et η
+est. Sed. quum supponam, ipsas b, ξ et η esse quantitates eiusdem ordi-
+nis ac vim perturbantem, valor quoque simplicissimus (n) τ -ὶ- (c) ipsius (n) ζ,
+qui nascetur, si b, ξ et η cifrae aequales positae fuerint, a vero ⁸ eius
+valore non nisi quantitate primi ordinis differt, itaque conditioni requisi·-
+tae satisfacit. Hinc sequitur in approximatione prima expressionem simpli-
+
+ 
+
+ἀ. 9²
+dt
+
+ 
+
+') ‚enim sun sponte functionem sonus 9, itaque functionem ipsarum ζ d β, ιο praestat·
+
+10
+

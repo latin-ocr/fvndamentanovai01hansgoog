@@ -1,0 +1,50 @@
+ρ Θ
+(quia functiones solius variabilis ζ sunt,) integrationes ad ζ et β ex sTdt
+et sRdt derivandas requisitae ipsas τ et t extra signa sinuum et cosinuum
+gignere non possunt3 ita'que pro ζ et β obtinentur series pure periodicae
+eiusdem formae, ac series supra pro sle allata.
+
+Valoribus ipsarum ζ et β ἰιι approximatione prima computatis, valores
+magis approximati ipsarum λ, ρ, υ, , r obtinebantur, si substituas valores
+illos ipsarum ζ, z, in functionibus Λζ et Ξζ.1ιιιιι quum in approximatione
+prima φ -Ι- nt-†- (η)ῃί loco λ, f÷ π -1- (njyt loco v„ f 4- d ÷(n)y't loco
+v', et valores pure elliptici radiorum vectorum, quos resp. (ρ), (r) et (τ’)
+denotabo, substituti fuerint, iu approximatione secunda differentiae Λζ- φ
+ad λ, Az—-s ad υ, Az' —f‘ ad v', EC†p—l(q) ad ῑρ, ΞΖ-ι-ω-ῑω
+ad lr et Ez' -Ι- w' — l(r') ad ἶν’ addendae sunt. Quod idem est ac si iu
+approximatione secunda quantitatibus illis incrementa ὄλ, δυ, , etc. attribuas,
+et ponas
+
+«ιλ :Ac—‹1› ‚ ὅτι» = ,ΞΗ-β -ιω
+
+δυ, = Az—s ,‹ ‹ilr ..-- ΞΖ-ἱ- w—l(r)
+
+dv: = Az'--f ‚ elr' τ..- Ξῶ-ί- «ef—los)
+nbi in functionibus Λ et Ξ valores ipsarum ζ et z substituendi sunt, qui¹
+in approximatione prima inveniebantur. Quo facto ὄλ, δυ, , etc. in Τ sub-
+stituendae sunt , id quod commodissime ope theorematis Tayloriani perfici-
+tur, unde necessario termini eiusdem formae ac termini approximatiouis
+primae prodire debent, ita ut habeatur
+
+dT = A' sin γ ÷ B' sin 27 4- etc. —- dya' siny — dyb' sin 27—- etc.
+÷ 232¹ ⁰⁰⁸ [κν 4- ²'g -ἱ- 5'8' ÷ ²‘“ (π -ἱ- (nm) -Ι- ²'''' (ad -Ι- (π).·[ῑ)]
+denotantibus 61· et “ dy incrementa, quae Τ et y in approximatione se-
+
+cunda capiunt3 et similem expressionem nanciscimur pro GR. Aequationes
+, vero (7) probant semper esse debere
+
+A' B'
+
+—
+
+ΤΞΤ-Θίο.
+
+unde
+
+‹iq-:A-
+
+et quum valor approximatus ipsius y in approximatione prima inventus
+
+ipsi -- ¹'aequalis sit, habetur valor accuratior hic .
+7
+

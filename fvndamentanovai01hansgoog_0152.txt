@@ -1,0 +1,56 @@
+128
+
+quoniam termini in ζ per (τ - t) multiplicati, qui in valore ipsius z qui-
+dem evanescunt, quorum vero numerus in ζ praesertim in approximatione
+secunda et altioribus admodum magnus est, omnino non adsunt.
+
+Ad hoc propositum assequendum quantitatem Τ, quae, integratione
+priore respectu ipsius τ instituta, respectu ipsius t integranda esset, primum
+respectu ipsius t integrabo, et deinde, mutata τ in t, alteram integrationem
+respectu ipsius t peragam. Qui integrandi ordo etiam adhibendus est, si
+formulas nostras ad cometarum perturbationes, quae ope quadraturamm me-
+chaniam, quas dicunt, eliciuntur , investigandas adhibere velis.
+
+Quum in motu Lunae non modo termini secundi ordinis respectu vis
+perturbantiS, sed etiam termini nonnulli tertii ordinis vim habeant, formu-
+
+las valorem ipsius z et ipsius w suppeditantes usque ad quantitates quarti
+ordinis omnibus partibus expletas evolvam.
+
+2.
+
+Resumamus formulam
+
+dGL}
+ἀ(Ξ-ἷ)
+
+quae ., indicata differentiatione instituta, fit
+
+ 
+
+T:
+
+ 
+
+ἀῖζ
+
+   
+
+   
+
+ 
+
+ἕέἶῧ (3-9Ῑὲ
+
+Quum secundum art. 18. Sect. 11. :ll—t sit quantitas ouius terminus a vi
+
+ 
+
+perturbante independens unitas ipsa est, ponamus
+
+(ἐξ =1÷ (522⁵.-
+ubi igitur (gaz-³] terminos solummodo continet a vi perturbante prolatos.
+
+Substituta hac expressione in praecedente expressione ipsius T, babetur,
+si evolutio usque ad quantitates quarti ordinis perfecta erit,
+

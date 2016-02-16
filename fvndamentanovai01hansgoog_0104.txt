@@ -1,0 +1,48 @@
+(32) ......
+
+Quum perturbationes Lunae ita exhiberi debeant, ut longitudo perigaei
+ubique in argumentis perturbationum explicite indicata sit, praevidere quidem
+potuimuS‚ quantitatem η in fine calculi cifrae aequalem necessario inventum
+iri, sed quum quantitas haec ad problematis in art. 16. enuntiati solutio-
+nem spectet, eam in formulis illis praetermittere nolui. Accedit etiam quod
+eadem quantitas in theoria perturbationum planetarum utilitatem afferre
+potest3 in hac enim theoria perturbationes ipsius (n) z sub forma hac
+
+Σο, sin (ig—ff-i'g') ÷ *2 0., cos (ῖς-ΗΕΊ
+
+exprimi debent , ut in theoria Iovis atque *Saturni amplius explicavi, et tum
+ξ ita determinanda est, ut terminus :co sin g ‚ et η ita ut terminus C„ cos g
+evanescat. Quo factum erit, ut in 3l‚1ac quoque theoria excentricitatis et lon-
+gitudinis perihelii valeres in calculo numerico perturbationum adhibendi
+sint , qui observationibus astronomicis immediate reperiuntur.
+
+21.
+
+His de perturbationibus longitudinis radiique vectoris expositis ‚ ad
+perturbationes quantitatum p et q, e quibus perturbationes latitudinis et re-
+ductionis longitudinis pendent ‚ explicandas perventum est.
+
+In praecedentibus inclinationes omnino negleximus ‚ habita vero earum
+
+ratione, positoque axi coordinatarum at et ω’ in nodo ascendenti orbitae m ¹
+
+cum plano ipsarum xy, habemus
+
+x = r cos (υ-θ)
+
+y = r sin (υ-θ) cosi
+
+z = r sin (υ-θ) sin ἰ
+
+,τ’ .-..- r' sin (θ-θ’) sin (υ’--θ’) cos ἴ -f- ν’ cos (0—0') cos (af-6¹)
+
+θ’ “-“-· ²² 0⁰⁸ (0-0') ⁵5¹¹ (θ’-θ’) cos ἴ - r' sin (O—O') cos (ν’-θ’)
+
+z' ..τ- r' sin (υ’--θ’) sin ἴ
+substitutis his coordinatarum expressionibus in expressione ipsius 62 in
+art. 1. data, Ω functio reddita est quantitatum v, r, θ, ἰ ad corpus m,
+et quantitatum analogarum ad corpus m' spectantium. Quum vero, sit
+
+v¹=f-l-x÷ v=s÷m÷o, 2=m÷sc0sid0‚ habetur
+v=v,÷o÷m-x=v'÷o—scosido
+

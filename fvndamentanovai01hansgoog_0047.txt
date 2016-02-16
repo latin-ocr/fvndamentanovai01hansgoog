@@ -1,0 +1,41 @@
+tempore t constantx calores veri quantitatum L, G, eta aequationibus
+(17) respondentes, quos naiores perturbatos appellabo, obtinentur, si in
+aequationibus (25) ad ipsas A, Γ, etc. applicatis post integrationes
+peractas τ in t mutata erit.
+
+Demonstratio.
+
+Sint datae quantitates duae quaelibet L atque G, functiones temporis
+t et constantium arbitrariarum a, b, c, etc. , ita ut habeatur
+L = ²1¹(ss α, ὃ, 0, e,f, g)
+G = Π (τ’ ⁰2 b, c, e,f, g)
+denotantibus Ψ atque H functiones quasdam. Assumantur
+Λ = Ψ (τ, a, b, ο, e,f‚ g) ...... (27)
+Γ = Π (v, α’ ὂ) c, essa g)
+Ex his expressionibus valores duarum constantium arbitrariarum, e. g. a et
+
+b elici possunt, quibus in functionibus X, Y, Z aequationum (19) α et
+b seliminare licet. Quo facto habetur
+
+ωεχ (t, τ, Λ, Γ, c, e‚f, g)
+denotante χ functionem quandam ‚ et similes expressiones nanciscimur pro
+
+y et z, unde x„ y„ z, quoque functiones earundem quantitatum redditae
+sunt. ltaque ponendo Λ loco a et Γ loco b, pervenitur ope valorum
+
+...... (26)
+
+⁸ praecedentium ipsarum x, y, etc. ad aequationes (25) pro d Λ, d Γ, d c,
+
+etc. quae in hoc casu indeterminatam τ quoque continent. Quae aequatio-
+nes integratae valores perturbatos ipsarum A, Γ, c, e, f, g suppeditant.
+Quibus absolutiS, valores ipsarum α et ὀ ex (27) eliciti et in (26) sub-
+stituti suppeditant
+
+Iaztpss, v, A, Γ, c, e,s, g) ······ (28)
+. G=F(t,v,A,P‚c,e,f,g)
+ubi φ et F functiones quasdam designant. Quantitates L et G hoc modo
+exhibitae , si valores perturbati ipsarum A, Γ, c, etc. substituti erunt,
+functiones explicitae temporis redduntur, quae praeterea quantitatem inde-
+terminatam τ duplici modo continent. Nam τ functionibus φ et F ante
+

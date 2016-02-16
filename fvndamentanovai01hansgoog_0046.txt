@@ -1,0 +1,44 @@
+dationem, qua efficitur, ut coordinatae statim in functione explicita tem-
+poris determinentur, et qua simul incommoda illa amoventur.
+
+ln praecedentibus supposuimus a, b, c, e, j, g esse constantes arbi-
+trarias integratione aequationum (18) in expressionibus ipsarum x, y, z in-
+troductas. Sed perfacile intelligitur conclusiones praecedentes omnes , et
+inter has nominatim aequationes (24) ‚ locum quoqne habere, si a, b, c,
+e, f, g functiones quaecuuque essent constantium 'arbitrariarum, quas iu·-
+tegratio illa revera introduxerat. Sit Λ functio quaedam constantium a, b,
+etc., tum aequatione inter A atque a, b, c, etc. respectu constantis unius
+e. g. respectu a resoluta, habetur
+
+a = funct. (A, b, c, e, f, g)
+qua aequatione constans a e functionibus X, Y, Z aequationum (19)
+eliminare licet, ita ut x, y, z functiones evadant constantium A, b, ο,
+e, f, g. Quibus factiS, methodus modo explicata aequationes suppeditat
+ipsis (23) et (24) plane similes, quibus vero ubique A loco a inest. Quae
+
+conclusiones quum locum habeant, quomodocunque sunt constantes reliquae,
+quibus in functione
+
+= funct. (a, b, c, mss g)
+
+quantitates a, b, e, etc. inter se coniunguntur3 supponere nobis licet, huic
+functioni quantitatem quandam arbitrariam τ inesse, dummodo in formulis,
+in quibus a, b, c, etc. variabiles tractandae sunt, ipsa τ constans pona·
+’tun Quantitas indeterminata haec τ, quia ¹indeterminata est, post integra-
+tiones aequationum (25) peractas ad lubitum determinari potest3 ponendo
+
+vero post integrationes has peractas ι· = t, novam methodi variationis
+constantium arbitrariarum applicationem assequemur, latioremque ei cam-
+
+pum aperiemus. Quem in finem ante omnia hoc est demonstrandum, quod
+in nostra perturbationum theoria fundamentale dici potest
+
+Theorema.
+
+Quoties loco aliquot constantium arbitr-uriarum a, b, c, etc. eliguntur
+totidem constantes arbitrariae Λ, Γ, etc., quae ex constantibus illis et
+etr quantitate indeterminatam· tali modo· compositae sunt, quali quanti-
+tates quaelibet L, G, etc. ex iisdem constantibus a, b, c, etc. et ex
+
+S
+

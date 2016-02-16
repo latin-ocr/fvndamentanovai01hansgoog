@@ -1,0 +1,38 @@
+VIII
+
+Ut opera et labor, quem hae methodi requirant, recte iudicari possit,
+nihil est quod malim , quam ut hi geometrae integram perturbationum Lunae
+computationem secundum methodos propositas confici curent. Egomet secun-
+dum methodum in hac commentatione explicatam huius computationis maiorem
+partem iam confeci, et reliquam, simul atque occupationes quaedam aliae
+absolutae fuerint ‚ conficere in animo est.
+
+Formulis modo memoratis adhibitis , computationes breviores quam com-
+putationes ill. Damoiseau et Plana evadere debere videntur, ‚quoniam reversio-
+nes serierum, quas methodus ab his adhibita poscit, opus nou sunt3 evolutio-
+nes vero analyticae aliam ob causam aliquid incerti involvunt. Qui calculus
+postulat , ut quantitates quaedam pro parvulis quantitatibus primi ordinis ha·-
+beantur ‚ secundum quas evolutiones analyticae procedant, sed quum de coeffi·
+
+cientium numericorum ordine analytico sermo esse nequeat , fieri potest, ut
+
+propter hos coefficientes singuli perturbationum termini in fine calculi valorem Α
+
+habeant multo maiorem„ quam eum, cui pro ordine suo analytico adnumerandi
+sint. Revera fit , ut propter coefficientes numericos divergentes in perturba·
+tionum complurium expressionibus analyticis duo termini consequutivi ‚ qui pro
+indole sua ordinibus analyticis diversis adnumerandi sunt ‚ eundem fere valorem
+numericam habeant, uti in opere ill. Plana inspici potest. E. g. coefficientem
+perturbationis longitudinis Lunae verae , cuius argumentum duplex distantia
+
+perigaei Lunae a nodo eius est, invenit ill. Plana z.-
+1 135 2
+(T†Hm⁶f
+
+Iam quum m, quae in hac expressione rationem motus medii Lunae ad motum
+medium Solis repraesentat, in hac computatione pro quantitate primi ordinis
+habeatur, prior expressionis praecedentis terminus ‚ quod attinet ad composi·-
+tionem suam analyticam, ordinis finiti, et posterior ordinis primi est. Quum
+
+vero valor numericus ipsius m sit proxime z ἦ, habetur
+

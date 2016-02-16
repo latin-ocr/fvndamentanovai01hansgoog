@@ -1,0 +1,41 @@
+X..
+
+dinis ita computavi, ut ad longitudinem m e d i am addendae sint, quo factum
+est ‚ ut formulae simpliciores evaderent ‚ et tum series perturbationum ipsarum,
+tum series ‚ quibus quisque ‘coefficiens computandus est, magis convergentes
+fierent. Formulas ita comparavi , ut is, excentricitatis Lunae valor numeneus,
+qui ex observato maximo aequationis centri termino op'e formulae pure ellipti—
+cae elicitur ‚ in perturbationum computatione adhibendus sit, calculo igitur
+indirecto olim adeum excentricitatis Lunae valorem, qui computandis perturba-
+tionibus superstruendus fuerit, indagandum adhibito opus non sit.
+
+⁶ Praeterea problema ita solvi, ut longitudo adl planum respectu situs eius
+iu spatio penitus arbitrarium relata et latitudo versus idem planum obtineatur.
+Solutio igitur hic data hac quoque ex parte solutionibus reliquis, quae· longitudi-
+nem Lunae latitudinemque versus eclipticam solummodo suppeditant, generalior
+est· Quum vero planum proiectionis in solutione nostra quodlibet sit, aequa-
+torem planum hoc statuere licet , quo factum erit, ut ex tabulis Lunae motum
+exhibentibus ascensio recta eius et declinatio immediate computari possint.
+
+* Quibus in formulis g'eneralibus y ‚ α atque η cifrae aequalibus factis,
+formulas nanciscimur ‚ quae immediate perturbationibus planetarum com-
+putandis inserviunt , et cum iis identicae sunt ‚ quas iam pro hac com-
+
+putatione dedi. Externa vero facie formulae hic datae ab illis paullulum
+, ‹12ss
+
+ 
+
+discrepant ‚ quia aequationis pro dt dt integrationem alio modo institui3 illic, , ,
+
+ipsis ζ et w computatis , ipsam z ex ζ, mutata in fine calculi numerici
+τ ἰιι t, elicui3 hic vero ζ ιιοιι computatur, sed statim et ipsa z et ipsa
+w ‚ qua formularum transmutatione magnum calculi compendium assequutus
+sum.
+
+Quantitas. quoque auxiliares ιιι hac commentatione p„ ᾳ, , P, Q, K, ,ΠΡ ἱ
+atque q„ nominatae resp cum quantitatibus auxiliaribus, quibus in theoria
+planetarum usus sum ‚ cmn quantitatibus puta in Astr- Nachr. No. 244 seqq·
+
+P ι q, P, 9 atque φ, -— φ, et cum quantitatibus ibidem No 295 seqq. ἴ atque
+

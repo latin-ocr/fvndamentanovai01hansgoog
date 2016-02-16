@@ -1,0 +1,56 @@
+Ἢ
+
+15.
+
+En eorum quae in praecedentibus exposui applicationem. Electis
+constantibus arbitrariis tribus A, Γ ‚ etc. quae ex constantibus arbitrariis
+a, b, c, etc. et ex quantitate indeterminata τ eodem modo compositae
+sunt, quo coordinatae tres quaelibet, per quas situs corporis m in spatio
+determinatur3 electisque constantibus arbitrariis analogis pro corporibus m’,
+m''‚ etc.; si valores perturbati harum constantium methodo in praecedenti-
+bus explicata computati fuerint, nanciscemur statim valores perturbatos„ oo-
+ordinatarum mutando v in t in valoribus perturbatis constantium arbitraria-e
+rum Λ, Γ, etc. Problema igitur hoc: datis viribus quae systema corpo-
+
+rum urgent, invenire coordinatas horum corporum in functione temporiS‚
+ex praecedentibus solvimus.
+
+16.
+
+Praecepta praecedentia ad motum corporum coelestium investigandum
+applicaturi ponimus esse
+
+Τιτ--σιΜψη
+
+r .
+
+ 
+
+tum, ponendo R = κ (Μ -Ι- m) Ω, elicitur ex artt. 6. atque 10.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ὗες-.- &Eg-fax m ”“’·ξζ’·“““ ÷-1»-1¹;.- romam
+4- m(st1¹÷m)2 vam dm-M(st}÷m)2'ff1]dm dm
+
+ita ut Τ repraesentet vim primariam et Ω vires secundarias seu perturba-
+trices quae corpus m urgent. Nota sunt integ-ralia aequationum (18) haec
+
+x = r cos (υ-θ) cos θ —- r sin (υ-θ) sin θ cosi
+y -τ r cos (υ-θ) sin θ -l- r sin (υ-θ) οοεθοοεὶ
+z :rsin (υ-θ) sini
+
+ubi r radium vectorem, v longitudinem veram in orbita, ι’ inclinationem
+orbitae plani ad planum fixum ipsarum oxy, quod in spatio ad lubitum si-
+tum esse potest, et θ longitudinem nodi ascendentis orbitae plani cum
+plano ipsarum ,τῃ denotat. Quum expressiones plane analogas pro cot-
+poribus m‘, νῆ’, etc. nanciscamur, ad has non explicite respiciam. Ι
+
+4*
+

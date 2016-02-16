@@ -1,0 +1,47 @@
+Integralia aequationum (16) vel (17) in praecedentibus ita determi-
+navimus , ut eandem formam habeant, sive R est cifrae aequalis sive non.
+ltaque⁴ coordinatae x, y, z et proinde functio quaelibet ipsarum x, y, z
+proprietate hac gaudent, quod eandem formam habent, siv'e ad aequatio-
+nes (17) sive ad (18) referuntur. Item, aequationes (20) probant, quo-
+tientes differentiales primi ordinis ipsarum x, y, z respectu temporis in
+
+utroque casu eiusdem formae ¹quoque esse. Aequationes vero (21) demon-
+
+strant, quotientes differentiales secundi ordinis §dt—³2⁹ ‚ ’ξιξ- , ξιξ , nec non quo-
+
+tientes differentiales ordinum altiorum omnes in utroque casu formam eandem
+non habere. Ergo quoties L, G, etc. sunt aut ipsae functiones ipsa-
+rum ω, y, z, x„ y„ z„ aut ad functiones harum quantitatum reducuntur,
+non modo earum compositio, sed etiam earum significatio respectu aequa-
+tionum (18) εἰ respectu aequationum (16) eadem σείς igitur integralia
+sdA, sdP, etc. post τ in t mutatam, non modo respectu eorum compo-
+sitionis sed etiam respectu eorum significationis valores perturbatos ipsarum
+
+L, G, etc. praebebunt. Quoties vero functiones L, G, etc. aut praeter
+
+illas quantitates insuper ’ἐξ , etc. ἒξ εἰσ. εἰσ. continent, aut functiones
+
+modo horum quotientum sunt, integ-ralia illa modo quantum ad earum
+compositionem valores perturbatos ipsarum L, G, etc.‚ hoc est valo·-
+
+res perturbatos functionum in quas L, G, etc. transibunt, si valo-
+
+res ipsarum {A} , ἒξ εἰσ. εἰσ. per constantes arbitrariae a, b, c, etc. et
+
+per tempus expressi substituti fuerint, subministrabunt, quod attinet ad ea-
+rum significationem, haec respectu aequationum (17) ab earum significa-
+tione respectu aequationum (18) necessario differt.
+· Si L denotat functionem ipsarum x, y, z, absque x„ y„ z„ diffe—
+rentialibusque ordinum altiorum, aequationes (20) statim suppeditant
+o: gl) da -1- (33¹⁴) db -ἦ- εἰσ. 4· (ἐξ) dg
+
+g
+Si igitur εἰ valor perturbatus ipsius L et valor perturbatus ipsius Λ diffe-
+rentiatur, habetur statim
+dl, d
+ῑῑ ·-- (212-
+
+designante linea superposita post differentiationem τ in t mutandam esse.
+
+ 
+

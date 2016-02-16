@@ -1,0 +1,44 @@
+118
+
+Α sin Pcos [(n)xt— Θ] = --· 094- Du-——Bcos Γ
+Substituta hac aequatione nec non
+sin I'sin [(n)xt —- Θ] ΞΡ, ’
+in aequationibus (65), emergunt
+
+Η Ξ-(π) ‘hd-(Um
+L = (η) ἦ),
+Μ -·-.·· (n) Dp,
+
+Substitntis his aequationibus in (63), per se evidens est integr-alia no·
+stra formam suam non mutare, et solum terminorum illorum effectum in
+eo consistere , quod ad quantitatem α - η terminum correctionis C, et ad
+quantitatem c terminum correctionis D addant.
+
+Si igitur in approximatione secunda termini ipsarum H, L et M sub
+(65) allati non tam parvi sunt ut omnino negligi possint, ponatur ubique
+in integralibus (64)
+
+α-η-ἱ-(Ϊ loco α--η
+atque (μὶ-Β loco c
+
+et termini sub (65) allati in valoribus ipsarum H, L et Μ deleantur.
+Quibus factis termini per tempus ipsum multiplicati in valoribus ipsarum
+Ρ, , 9, et ιι oriri nequeunt.
+
+Quae quidem methoduS, qua termini per tempus ipsum multiplicati ex “
+Ρ, et 9, tolluntur , et generaliter methodus haec ipsas Ρ, et 9, suppeditans,
+dum situs plani proiectionis in spatio penitus arbitrarius, sive magnitudo an-
+guli Γ quaecunque est, non modo in problemate trium corporum adhiberi,
+
+sed etiam ad problema , ubi numerus corporum se invicem perturbantium
+quantusvis est, extendi potest. ³
+
+31. l
+
+Constantibus Γ, Ι“”, Θ et 6¹, quas integrationes in expressionibus ipsa-
+rum η, 9,, u, P'e’ 9’, et α’ introduxerunt , aequationes conditionales simpli- ·
+cissimae insunt. Ex iis , quae in art. 27. de termino constante ipsarum Ω
+atque 19! protuli, sequitur valores approximatos ipsarum c et c' esse hos
+
+15
+

@@ -1,0 +1,37 @@
+*loo
+
+⁸ Quum termini ipsarum p, , q! et u, quos modo integ-ratione eruimus,
+omnium maximi sint, valores approximati ipsarum H, L et M substitutis his
+ipsarum p„ q! et u terminis in expressionibus (62) obtinentur. Quo factum
+erit, ut H, L et M functiones explicitae temporis sint, et aequationes prae-
+cedentes per methodum notam integrari possint. Hac autem integra-
+tione valores accuratiores ipsarum p„ ᾳ, et u innotescent, qui in (62) sub-
+stituti valores accuratiores ipsarum H, L et M suppeditabunt, quibus in
+praecedentibus aequationibus substitutis, integratione valores adhuc accura-
+tiores ipsarum pt, q' et u elicientur, et sic porro. Integratis aequationi-
+bus praecedentibus per methodum notam, integralia sub hac redigi pos-
+sunt forma
+
+1²1: 0 sin [(n).2·t- Θ] -sHcos [sant-(n)s(t)]dt-i-s{“{2L-t-{M} sin [(n).2·t—(n).2·(t)] dt
+με ἕὲἱ ceos [cnm-e] -ι- ο, -ι- ξῙξξΕΜ--Ξιξᾱι
+
+-ΞΞῚ s H sin [onst - (manat-{3¹ {fifh-1· {M} cos [cnm- (νῦ-τω] dt
+n =-{- Oceanum-o] -ι-ζλ 0, -ι- ffg-nsffi! m-}1,}at ’
+
+÷÷sfflin [anaet- (andet-u- -Σ-[ἕᾏ L... ξ- M} cos [cnm - cumo] dt
+
+ubi brevitatis caussa
+
+ωεγῖῑ--ηῑτοα
+
+feci et ubi in integrationibns (t) constans ponenda , post integ-rationes vero
+(t) in t mutanda est.
+
+Si ad rigorosam aequationem conditionalem inter constantes C et Q
+existentem indagandam hi valon-es ipsarum p, , q, et u in aequatione con-
+ἱ ditionali hac 1 τ.- 12¹² -ἱ- 2² -1- 22² substituuntur, invenitur primum
+
+1: {osia [cnm-e] -sHcos [cnm-(manat -2-s{“—}⁷¹L-·- {Aspia [(22)aet-(12)sa1t¹)]dt}2
+-u-{ceosflnm-eJ-sflsin [(n)se-(n)s(t)]at-s{“÷¹11÷{m}‹202[(n)a·t-(n)s(t)]ac}²
+-u-{Q} *s{ff{-⁷¹'M· Ξ L}dt}²
+

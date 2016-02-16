@@ -1,0 +1,48 @@
+[⁴¹5
+
+ 
+
+mericum accurati sunt, producta computantur, absoluta cuiusque, termini
+
+’ magnitudo praesto est, et, nulla adhibita consideratione secundaria, ter-
+» mini limitem propositum superantes recipi, termini vero ‚h'ocss limiteissminores
+
+omitti poterunt. Usque ad hoc tempus iam perturbationes longitudinis me-
+diae Lunae approximationis 'primae et secundae hac methodo computavi,
+et celerrime hanc computationem absolvere potui, quia series, quae facto-
+res productorum repraesentant, rapidissime convergunt.
+
+ln hoc computationis genere multum interest, ut ἰιι seri'e argumento-
+rum perturbationum ordo certus simplicissimusque conservetur, quare ordi-
+nem argumentorum simplicissimum et ἰιι methodo nostra se ipsum offe,-
+rentem exponam. · Primum valores indicis x distribuunt argumenta? in
+tot sectiones quot x habet valores , et in quaque harum sectionum valor-es
+diversi indicis ἴ ἰοί subdivisiones efficiunt. Quibus statutis ‚ in quaque'sub'-
+divisione procedant*argumenta secundum valores indicis ἰ, ita ut e. g. ›pri-
+mum locum teneat argumentum, in quo ι’ maximum valorem·negativum habet,
+et ultimum locum argumentum, in quo i maximum valorem positivum habet.
+
+x Ut haec res clarius intelligatur, adiungam seriem argumentorum ex omnibus
+
+sectionibuS‚ quarum coefficientes vim habent, electam et} ut habeatur tornai-⁴
+
+. nus comparationiS, apponam argumenta aequipollentia secundum notationem
+
+Viri ill,i Damoiseau cum numeris *qui ordinem ab hoc geometra adhibitum
+
+s denotant.. Designant igitur in tabellae subsequentis ultima columma t elon-
+
+gationem mediam Lunae a Sole, x anomaliam mediam Lunae, y argu·-
+mentum latitudinis Lunae et z anomaliam mediam Solis.-
+
+Series argumento· Series argumentorum secun· Series argumento· Series argumentorum secun·
+rum secundum (lum ill. “Dumoiseud cum ‘ rum secundum 'dum ill. Dnmoiseuu cum
+
+·· non.. ·, ·'‚ . . . eorum numero.
+
+sucat> 2t—2s÷2=
+61 2t— :r -1-25
+
+Ιιίι 2ί-1- 22
+etc.
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fvndamentanovai01hansgoog_0043.png"; bbox 0 0 4773 5892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2013 406 2127 493">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2013 406 2127 493">
+     <span class='ocr_line' id='line_1_1' title="bbox 2013 406 2127 493; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2013 406 2127 493; x_wconf 76' lang='lat'><strong>19</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 533 4467 1632 4548">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 533 4467 1632 4548">
+     <span class='ocr_line' id='line_1_2' title="bbox 533 4467 1632 4548; baseline -0.003 -24"><span class='ocrx_word' id='word_1_2' title='bbox 533 4467 820 4548; x_wconf 79' lang='lat' dir='ltr'><strong>petendi</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 866 4468 1054 4544; x_wconf 76' lang='lat' dir='ltr'><strong>sunt,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1104 4467 1288 4526; x_wconf 82' lang='lat' dir='ltr'><strong>unde</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1340 4467 1632 4525; x_wconf 79' lang='lat' dir='ltr'><strong>habetur</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 541 4524 2908 4947">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1103 4524 2973 4698">
+     <span class='ocr_line' id='line_1_3' title="bbox 2833 4524 2851 4561; baseline 0.021 0"><span class='ocrx_word' id='word_1_6' title='bbox 2833 4524 2851 4561; x_wconf 68' lang='grc' dir='ltr'><strong>ι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1103 4584 2827 4698; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 1103 4605 1205 4698; x_wconf 65' lang='grc' dir='ltr'><strong>(ὃ,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1239 4584 1856 4697; x_wconf 75' lang='lat' dir='ltr'><em>a)=—(a‚l›);</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1905 4602 2004 4693; x_wconf 74' lang='lat'><strong>(⁰</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2032 4598 2658 4697; x_wconf 60' lang='grc' dir='ltr'><strong>α)-“-“·-(ίῑῑ,ῡ),;ι</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2676 4604 2827 4671; x_wconf 65' lang='lat'><strong>0⁸⁰·</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 541 4752 2646 4853">
+     <span class='ocr_line' id='line_1_5' title="bbox 541 4752 2646 4853; baseline 0 -29"><span class='ocrx_word' id='word_1_12' title='bbox 541 4752 809 4838; x_wconf 80' lang='lat' dir='ltr'><strong>Quibus</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 861 4760 1370 4845; x_wconf 56' lang='lat' dir='ltr'><strong>aquationibus</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1424 4758 1802 4853; x_wconf 76' lang='lat' dir='ltr'><strong>congestis,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1852 4756 2183 4828; x_wconf 76' lang='lat' dir='ltr'>habemus</span> <span class='ocrx_word' id='word_1_16' title='bbox 2603 4783 2646 4808; x_wconf 54' lang='grc' dir='ltr'><em>ν</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2768 4868 2908 4947">
+     <span class='ocr_line' id='line_1_6' title="bbox 2768 4868 2908 4947; baseline 0 -38"><span class='ocrx_word' id='word_1_17' title='bbox 2768 4872 2814 4947; x_wconf 73' lang='lat'>3</span> <span class='ocrx_word' id='word_1_18' title='bbox 2866 4868 2908 4909; x_wconf 57' lang='lat' dir='ltr'>ss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

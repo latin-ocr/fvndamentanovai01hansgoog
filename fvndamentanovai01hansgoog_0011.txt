@@ -1,0 +1,44 @@
+V
+
+ubi t tempus , n motum medium planetae perturbati, g eius anomaliam me-
+
+diam, g', g' , etc. anomalias medias planetarum perturbantium, a, a, A, b,
+
+¹ β, Β, etc. constantes et ι’, ἴ, ὶ”, etc. numeros integros positivos seu negativos,
+
+inclusa cifra , denotant. In theoria quidem planetarum α , β, etc. semper
+minutissimi e massis perturbantibus pendentes. numeri suut , sed saltem in ter- ’
+minis ubi ἴ :- 3⁰ :z etc. z: o , ipsae a, b, etc. valorem permagnum habent , et
+tum α , β , etc, quae ex aequatione algebraica gradus altioris pendent, propter
+incertitudinem, cui massae planetarum semper subiectae crunt , nunquam accu-
+rate computare nobis licebit. Evolutis vero terminis allatis iu seriem infinitam
+hanc
+(α cos A -Ι- Ecos Β 4- etc.) sin (ig-1· i'g‘ -Ι- i'g'-{- etc.)
+
+4- (α sin ³14⁶ sin Β-Ι-εῐο.) cos(2'g-{— i'g' 4-i'g'4· etc.)
+
+-nt(aasinA-}-fib sin B†etc.) sin(2‘g 4-3'g'4-i’g'4- etc.)
+
+4- nt (oeacosA†13bcosB-{—etc.) cos(ig-}-2‘'g'-}-2‘'g'† etc.)
+
+-{-n²t² (oe2aooaA÷ β2ὀ cos Β-Ι- etc.) sin (ig-ff—i'g'4 ἶς’-Ι-θῑο.)
+
+—-{n²t² (offa siuA 4- ffb sin Β-Ι- etc.) cong 45g' -Ι- i'g' -Ι- etc.) ²
+
+Ψ
+
+terminos omnes accurate computari licet· In casu enim ubi ἴ z ι --. etc. Ξ.- ο
+
+eliciuntur ex hac serie primi termini hi
+(a cos A -1- b cos Β -Ι- etc.) sin ig-‘l- (asin A 4· bsin Β -Ι- etc.) cos ‘ig
+
+quorum quidem coefficientes permagni sunt , sed cum terminis , quos el-
+lipsis pura in longitudine etc. profert , sese coniungunt , itaque simul cum ele-
+mentis ellipticis per observationes astronomicas determinantur, neque in ex·—
+pressionibus perturbationum seorsum apponuntur. Termini vero* reliqui seriei
+praecedentis omnes* ita comparati sunt, ut accurate computari possint, quia
+producta α α , β ὁ , etc. semper minutissimi numeri sunt. Propter exig-uitatem
+massarum planetarum, et quoniam n in hoc casu est numerus haud maguus,
+
+series praecedens admodum couvergit, et intra temporis⁸ intervallum plus quam
+

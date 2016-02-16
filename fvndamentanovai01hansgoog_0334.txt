@@ -1,0 +1,40 @@
+in expressione praecedeuti ipsius¹ Μ, dnm semper termini in,³ qdbus x
+maior est quam] ss 1, omittuntur, ipsa M erit functio solius variabilis t,
+quae terminis primi ordinis, quorum argumenta ipsas g, g' et g'' non con-
+tinent, caret, et usque ad quantitates tertii ordinis accurata est, Substituto
+hoc valore ipsius M in expressione (51), post integrationes peractas W
+'usque ad quantitates tertii ordinis accuratam habebis, et, theoremate art· 9.
+Δ Sect. lv. in usum vocato, adiumento formularum (7) miz atque w usque
+ad quantitates tertii ordinis accuratas computabis *). His accuratioribus va-
+loribus et adiumento valoris ipsius S÷e per aequationem (8) computandi
+idem calculus repetitur, quo ad valores‘ ipsarum nz, w, etc. pervenies us·
+que ad quantitates quarti ordinis accuratos, et sic porro.
+
+Loco computationis modo descriptae etiam methodus coefficientium ιιι-
+determinatorum , quae ad analyticas perturbationum coefficientium expres-
+siones perducet, in usum vocari potest. Quem in finem necesse est, ut in
+calculi initio perturbationum omnium, quae vim habent, argumenta nota
+sint. Sit horum arg-umentorum ιιιιιιιιι quodque per A cos (κγ-Ι- αῒ-Ι- β) de-
+notatum, unde pones
+
+W...- -·· ΣΑ cos (κγ-Ι-αι-Ι-β)
+
+ubi argumenta omnia, quae vim habebunt, explicite apponenda sunt. Qui-
+bus praemissis, per aequationes (7) ipsarum (τῇς, w, (n)' z, w', etc. ex-
+pressiones analyticae tanquam functiones coefficientium A, et, his valori-
+bus substitutis, illa ipsius M in' art. 7. Sect. 111'. data expressio, nec non
+analogae ipsarum Μ’ atque M ‘' expressiones tanquam functiones eorundem
+coefficientium et quantitatum cognitarum exhiberi possunt. Quibus valori-
+buS, nec non praecedente ipsius W valore in aequatione (51) substitutiS,
+'aequationem identicam nancisceriS‚ qua singulorum coefficientium A expres-
+
+siones analyticas invenire poteris. llla tamen methodus plerumque huic
+praeferenda videtur.
+
+¹⁸⁵) Si praecisionem maximam brevissimo calculo assequi vis, in hac secunda approximatione
+
+termini tertii ordinis, quorum argumenta ipsas g, ς’ atque ζ’ ιιοιι contine-t, ot qui iu hac
+approximatione eruti sunt, omitti debent, si perparvnli ιιοιι sunt.
+
+ι ι
+

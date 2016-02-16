@@ -1,0 +1,60 @@
+182„
+
+=Theorema.
+
+Quoties Γ est functio huius formae
+Γ- ..- L÷G —costp-st-H-g- sintp
+
+ubi L, G atque H indolis supra designatae sunt: ope aequationum (4),
+⁴ quarum prior ad terminos ipsius Γ, in quibus κ positivus, posterior vero
+ad terminos, in quibus κ negativus, adhibenda est, termini, in quibus κ
+sine respectu signi sui algebraici maior ⁸est 'quam 1 , ex iis, in quibus
+“ κ--·1 et xz—-l , facillima opera compntantur, unde in¹evotutione ipsius
+Γ ceteroquin instituenda non nisi ad terminos, in quibus κ = o, κ -·-.-. 1
+
+et κ z — 1 est, respicere opus est.
+Facile quoque reperitur theorema idem locum habere, quoties G for-
+
+, mae V sin-[at 4-6) et H formae W cos (at -Ι- β) sunt.
+Iam facili computandi ratione expressio ipsius Τ in initio art. praec.
+data pro approximatione prima in hane transfertur expressionem
+
+sm: 2— cosm} Lfl(—oess†⁰⁰⁸s 22÷1j„)(2¹ss)÷—sinsr(7⁵} }‹11
+-2‘'⁸¹¹¹‘1>s,—. s(-⁸¹⁰s÷1-02)Q¹⁵²)--⁰⁰⁸fr( -.·N,—-,‚,d²}
+-3ᾕέ,[(Ζ-ξ) dt
+
+unde manifestum est s T dt eiusdem formae esse ac Γ, itaque adiumento
+aequationis (3) terminos in quibus κ maior est quam ss· 1 computari non
+
+oportere.
+Infra monstrabitur , quousque theorema hoc in approximationibus sul)-
+
+sequentibus locum habeat·
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10.
+
+Transcendentimn X’‘g ¹³ et X'g ””’ evolutiones in series infinitas in theo·
+ria Lunae commodissime cadffibebuntur, quare per formulas supra traditas
+
+computavi
+
+ 
+
+‘²2³2‘0’2-——3-0--3-e2- -1--·-·-÷--· -
+W(1)=sse—Adffl‘1·e⁵a-AEe eto-
+2 16 iffi 18432
+

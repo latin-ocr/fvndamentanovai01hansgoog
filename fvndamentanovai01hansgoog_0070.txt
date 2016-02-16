@@ -1,0 +1,54 @@
+(8)······
+
+(9) ......
+
+as
+
+(ἐξ) ,
+
+0:21⁷,cso4- met) ἀ
+
+dt
+
+ 
+
+oui aequationi satisfactum erit, si posueris
+o == H: (ζ, t) atque ο z: Γ, (ζ, t)
+unde aequationes (7) suppeditant
+Π, (ζ, t) z —— V
+
+quae igitur aequatio terminos omnes formae Z sin κγ tollit. Praeterea
+aequationes (7) monstrant, non modo in approximatione prima ad valores
+veros perturbationum obtinendos instituenda terminos formae Ζ sin κγ
+per valorem ipsius Π, (ζ, t) sub (9) datum evanescere, sed eandem rem
+etiam locum habere in approximationibus omnibus subsequentibus. Nam
+v solummodo in quantitatibus ρ atque φ ,οοηῐίιιθῐιπς itaque aequationes
+(7), (8) et (9) non modo locum habent, si valor-es approximati variabilium
+
+in expressionibus ipsarum T et R, sed etiam si valeres earum accurati
+substituti erunt.
+
+5.
+Aequationes (8) alio modo exhibitae sunt hae
+d2H({,t) dsssd)
+dg dt = ο , dt τ..- o
+
+ 
+
+ 
+
+quae ‘integratae suppeditant
+
+Π(ζ,ῑ) == Λζ-Ι- φὶ
+Γ (ζ’ t) = vg
+denotantibus A , ψ et Ξ functiones arbitrarias quantitatum quibus prae-
+fixae sunt.
+Hinc evadit
+
+‘'¹²25‘’ -τ Met) = ψι
+denotante 'lb‘ quotientem differentialem functionis ‘abt- ¹Aequatio vero
+(9) monstrat Π, (ζ, t) constantem esse, itaque 11)Ιί quoque constanti ae-
+qualis est, quam (n) y appellabo.
+
+ 
+

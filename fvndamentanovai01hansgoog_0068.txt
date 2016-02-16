@@ -1,0 +1,47 @@
+ 
+
+(6)......
+
+44
+
+ex quantitate indeterminata τ eodem modo composita est, quo anomalia me-
+dia Lunae ex elementis iisdem et ex tempore t.
+
+lam constat, terminos illos in expressione longitudinis et radii vecto-
+ris Lunae evitandos ‚ qui huius formae sunt
+
+α t sin (ng -1- ἰ”π -Ι- etc.) -1- β t² sin (κς -{- 3⁰ss 4- etc.)
+et a't cos (κς -4- ἰ”π -ἦ- etc.) -1- β’ἰ2 cos (ug -{- ἰ”π -Ι- etc.)
+ubi α, α’, β et β’ coefficientes numerici sunt, solummodo ex terminis iis
+ipsarum Τ atque R nasci posse, in quibus simul et a· = ο et ἴ = o, hoc
+est ex terminis huius formae
+Ζ sin (κγ -ff- ἱ”π -1- ima! -1- 5¹⁰0 ἦ· ἔσθ’)
+functiones igitur arbitrariae H, (ζ, t), Π,’ (ζ, t) et Γ, (ζ, t) ita determinandae
+sunt, ut termini hi non adsint.
+Quum ea quae ad inclinationes nodosque spectant infra allaturi simus,
+
+nunc quidem inclinationes in expressione praecedenti negligemus3 ideo con-
+siderabimus terminos ipsarum T atque R eos ‚ qui huius formae sunt
+
+Zsin(2‹7-{-²'‘·‘⁵v÷ md)
+
+Inter varios terminos quos expressio haec continet deligamus eos, in
+quibus 2⁶⁰ -. -ο et simul im - -ο, hoc est terminos
+
+Z sin κγ
+
+Iam demonstrabo functiones arbitrarius illas introductas ita determinari
+posse, ut termini formae praecedentis omnino evanescant, et simul deter-
+minationem hanc subsidia suppeditare, quibus efficitur, ut termini sub (6)
+repraesentati in expressione longitudinis radiique vectoris terminos per tem-
+pus ipsum multiplicatos proferre non possint.
+
+4.
+Quum (⁶¹⁵³)= (a —), pars ea expressionum ipsarum Τ atque R,
+
+„quae per ἐξ) multiplicata est, terminos formae Z sin κγ producere ne—
+
+quit, quare termini hi solummodo ex ea harum expressionum parte, quae
+
+per· 352) multiplicata est, nasci possunt.
+

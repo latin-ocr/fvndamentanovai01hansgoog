@@ -1,0 +1,47 @@
+Quum vero in casu eo, ubi functiones Λζ et Ξζ ita determinantur, nt
+
+perturbationes ad longitudinem mediam addendae sint, in approximatione
+prima nobis statuendum sit
+
+ag :s as
+—d—v« ’ dv
+
+sicut ex theoria nostra planetarum iam notum est: assumtio haec non modo
+
+:0
+
+computationem perturbationum primi ordinis ‚ sed etiam computationem
+perturbationum ordinum altiorum simpliciorem reddit, quare assumtionem
+huius articuli non amplius evolvam.
+
+13.
+
+Perturbationum ad longitudinem mediam applicandarum computatio-
+nem evolvem, quaedam iis , quae antea de hoc argumento divulgavi‚ ge-
+neraliora afferam ‚ quae ad accuratissimam perturbationum computationem
+consequendam maximi momenti sunt. ’
+
+Determinentur quantitates 543 et ’ᾧ per aequationes has
+
+(⁷1)ss = v—(e) sin ν
+(¹3) ······ ρ cos φ- - (α) cos ν - (α) (e)
+ὃ sin φ- .- (α) (pq ,ἐν .sin ν
+ubi lineola superposita quantitates ρ et φ a quantitatibus simpliciter ρ et φ
+denotatis discernit, itaque z· in t mutandam esse non designat, et ubi v
+angulus auxiliaris et (α) , (e) atque (n) constantes quidem sunt, sed cum „
+valoribus iis quos elementa α, e et n habent, si vis perturbans evanescit,
+non congruunt. Sint porro constantes (a) et (n) aequatione hac
+
+(carcar = κ (Μψπι)
+
+iunctae ‚ ubi κ, uti in Sectione prima, intensitatem vis attractivae, quoties
+et distantia et massa unitati aequales sunt, denotat. -Pono nunc ⁸
+
+ 
+
+ΛζΞῷ-Ι-π
+Ξ εἰῇ
+
+ubi π quoqne constans est, et quasi longitudinem perigaei designat. Hinc
+nobis erit
+
